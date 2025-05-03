@@ -43,6 +43,9 @@ bps-dev-chatbot/
 📸 UI Preview
 ![WhatsApp Image 2025-05-03 at 16 53 16_5a7bbed4](https://github.com/user-attachments/assets/c7d4c965-0b9c-460d-b94c-0ef4947c65da)
 
+![WhatsApp Image 2025-05-03 at 16 54 15_7d6a981a](https://github.com/user-attachments/assets/73a85fd4-88ce-45a9-b379-b9ceadb39c97)
+
+
 🔐 Environment Variables
 Variable	Description
 GROQ_API_KEY	Your Groq API Key
