@@ -18,7 +18,7 @@ An AI-powered chatbot built with **Streamlit**, **Langchain**, and **Groq's LLaM
  1. Clone the repository
 
 bash
-git clone https://github.com/your-username/bps-dev-chatbot.git
+git clone (https://github.com/BpReddy1104/Bp-s_AI_Agent)/bps-dev-chatbot.git
 cd bps-dev-chatbot
 
 2. Install dependencies
