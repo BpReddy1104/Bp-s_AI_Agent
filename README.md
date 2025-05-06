@@ -41,9 +41,10 @@ bps-dev-chatbot/
 └── README.md          # Project documentation
 
 📸 UI Preview
-![WhatsApp Image 2025-05-03 at 16 53 16_5a7bbed4](https://github.com/user-attachments/assets/c7d4c965-0b9c-460d-b94c-0ef4947c65da)
+![image](https://github.com/user-attachments/assets/a0741b33-4e88-4270-8b76-30e566982459)
 
-![WhatsApp Image 2025-05-03 at 16 54 15_7d6a981a](https://github.com/user-attachments/assets/73a85fd4-88ce-45a9-b379-b9ceadb39c97)
+![image](https://github.com/user-attachments/assets/a07f81c2-6b4c-4e12-b1fa-417bd908bff4)
+
 
 
 🔐 Environment Variables
